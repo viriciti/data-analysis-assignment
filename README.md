@@ -1,6 +1,6 @@
 # ViriCiti Data Analysis Assignment
 ![
-](https://xkcd.com/833/)
+](https://imgs.xkcd.com/comics/convincing.png)
 
 ## Goal
 Determine the time spend in the four different energetic states of a vehicle during a day and calculate the efficiency (km/soc%).
@@ -25,7 +25,13 @@ Enter the directory
 ### The Data
 In the directory `data` you will find a comma seperated file containing all data you need for this
 assignment. The data originates from an electric bus recorded during one day. It contains the following columns:
-`timestamp, current (A), voltage (V), soc (%), speed(km/h), odo (km)`
+- `datetime`
+- `timestamp [ms]`
+- `current [A]`
+- `voltage [V]`
+- `soc [%]`
+- `speed [km/h]`
+- `odo [km]`
 
 ### The Task
 Your task is to determine how long the vehicle spends in one of the four energetic states. 
