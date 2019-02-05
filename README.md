@@ -30,8 +30,8 @@ assignment. The data originates from an electric bus recorded during one day. It
 - `current [A]`
 - `voltage [V]`
 - `soc [%]`
+- `distance [km]`
 - `speed [km/h]`
-- `odo [km]`
 
 ### The Task
 Your task is to determine how long the vehicle spends in one of the four energetic states. 
