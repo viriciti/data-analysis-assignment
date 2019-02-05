@@ -1,4 +1,5 @@
 # ViriCiti Data Analysis Assignment
+![(https://xkcd.com/833/)]
 
 ## Goal
 Determine the time spend in the four different energetic states of a vehicle during a day and calculate the efficiency (km/soc%).
