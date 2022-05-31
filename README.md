@@ -1,4 +1,4 @@
-# ViriCiti Data Analysis Assignment
+# Chargepoint Data Analysis Assignment
 ![
 ](https://imgs.xkcd.com/comics/convincing.png)
 
